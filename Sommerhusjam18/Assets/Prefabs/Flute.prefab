@@ -181,8 +181,8 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1502287379916718}
-  m_LocalRotation: {x: 0.003867198, y: -0.99332887, z: 0.03498102, w: 0.10981411}
-  m_LocalPosition: {x: 0.47, y: 3.43, z: -8.988}
+  m_LocalRotation: {x: 0.018459903, y: -0.999147, z: 0.03489489, w: -0.012121572}
+  m_LocalPosition: {x: -0.78, y: 3.86, z: -8.988}
   m_LocalScale: {x: 0.49448904, y: 0.49448904, z: 0.49448904}
   m_Children:
   - {fileID: 4538775589629118}
@@ -192,7 +192,7 @@ Transform:
   - {fileID: 4255410106843242}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 4.0340004, y: -167.38301, z: 0}
+  m_LocalEulerAnglesHint: {x: 3.9730003, y: -181.465, z: -2.1680002}
 --- !u!4 &4945403201569940
 Transform:
   m_ObjectHideFlags: 1
@@ -482,11 +482,11 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: a1e2310acef13f44b8f2919cedfea7ab, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -577,11 +577,11 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 039e7bbda3df6e244b445b1d9191fa05, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -672,11 +672,11 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 8b1422aa180ecd041818ad547e71550a, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -767,11 +767,11 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 4d73fe23807b1f04badc71713a93f547, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
